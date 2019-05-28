@@ -1,3 +1,3 @@
-module github.com/youosun/testmod
+module github.com/Youosun/LearnGoMod
 
 go 1.12
